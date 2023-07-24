@@ -1,3 +1,5 @@
+## 1-ascii.sql and 3-ascii.sql are files with data
+
 ## 1. Hash-based indexes
 Execute a query which displays all orders for the buk1 composition. Check the execution plan and take note of the execution times.
 
